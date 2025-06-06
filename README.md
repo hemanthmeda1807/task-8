@@ -9,7 +9,7 @@ To gain hands-on experience with VPNs and understand their role in protecting pr
 
 ## Tools Used
 
-- **ProtonVPN Free Tier**
+- **[ProtonVPN Free Tier](https://protonvpn.com)**
 ---
 
 ## Steps Followed
@@ -46,14 +46,14 @@ To gain hands-on experience with VPNs and understand their role in protecting pr
 
 ## Validation
 
-### ✅ IP Address Before VPN
+### IP Address Before Connecting to VPN
 ![image](https://github.com/user-attachments/assets/21e9ebd1-970a-4e83-b822-708e48c43180)
 
-### ✅ IP Address After VPN
+### IP Address After Connecting to VPN
 ![image](https://github.com/user-attachments/assets/680e3a94-fc35-4a38-bd0d-b873f80cd9d7)
 
 Verified using:
-- https://nordvpn.com/what-is-my-ip/
+- [Nord VPN](https://nordvpn.com/what-is-my-ip/)
 
 ---
 
